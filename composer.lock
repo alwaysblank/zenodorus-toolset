@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b3c2ac06f02d6a82a2c2af5a578f51ff",
+    "content-hash": "77b619980752c29950abe477e3599dea",
     "packages": [
         {
             "name": "zenodorus/arrays",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/alwaysblank/zenodorus-arrays.git",
-                "reference": "fa70fdf311c9629d24acb40c36e31796534c8f2a"
+                "url": "https://github.com/zenodorus-tools/arrays.git",
+                "reference": "fde312406ceaf86bda5519d1e8911c1afb031d54"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alwaysblank/zenodorus-arrays/zipball/fa70fdf311c9629d24acb40c36e31796534c8f2a",
-                "reference": "fa70fdf311c9629d24acb40c36e31796534c8f2a",
+                "url": "https://api.github.com/repos/zenodorus-tools/arrays/zipball/fde312406ceaf86bda5519d1e8911c1afb031d54",
+                "reference": "fde312406ceaf86bda5519d1e8911c1afb031d54",
                 "shasum": ""
             },
             "require": {
@@ -58,22 +58,22 @@
             "description": "Tools for messing with arrays.",
             "homepage": "https://zenodor.us",
             "support": {
-                "source": "https://github.com/alwaysblank/zenodorus-arrays/tree/master",
-                "issues": "https://github.com/alwaysblank/zenodorus-arrays/issues"
+                "source": "https://github.com/zenodorus-tools/arrays/tree/master",
+                "issues": "https://github.com/zenodorus-tools/arrays/issues"
             },
-            "time": "2017-10-25T16:55:16+00:00"
+            "time": "2017-10-25T18:09:23+00:00"
         },
         {
             "name": "zenodorus/core",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/alwaysblank/zenodorus.git",
+                "url": "https://github.com/zenodorus-tools/core.git",
                 "reference": "b95dd99d3b22fedd12136693f1fe3f2c35f32564"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alwaysblank/zenodorus/zipball/b95dd99d3b22fedd12136693f1fe3f2c35f32564",
+                "url": "https://api.github.com/repos/zenodorus-tools/core/zipball/b95dd99d3b22fedd12136693f1fe3f2c35f32564",
                 "reference": "b95dd99d3b22fedd12136693f1fe3f2c35f32564",
                 "shasum": ""
             },
@@ -104,13 +104,13 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/alwaysblank/zenodorus-strings.git",
-                "reference": "c21634cdc4dcc8cc2f22f3f3db2b89a62179540f"
+                "url": "https://github.com/zenodorus-tools/strings.git",
+                "reference": "c9a7b9b62870390ab95e5929b4ec65669fce09ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alwaysblank/zenodorus-strings/zipball/c21634cdc4dcc8cc2f22f3f3db2b89a62179540f",
-                "reference": "c21634cdc4dcc8cc2f22f3f3db2b89a62179540f",
+                "url": "https://api.github.com/repos/zenodorus-tools/strings/zipball/c9a7b9b62870390ab95e5929b4ec65669fce09ae",
+                "reference": "c9a7b9b62870390ab95e5929b4ec65669fce09ae",
                 "shasum": ""
             },
             "require": {
@@ -151,10 +151,10 @@
             "description": "Tools for messing with strings.",
             "homepage": "https://zenodor.us",
             "support": {
-                "source": "https://github.com/alwaysblank/zenodorus-strings/tree/master",
-                "issues": "https://github.com/alwaysblank/zenodorus-strings/issues"
+                "source": "https://github.com/zenodorus-tools/strings/tree/master",
+                "issues": "https://github.com/zenodorus-tools/strings/issues"
             },
-            "time": "2017-10-25T16:54:39+00:00"
+            "time": "2017-10-25T18:07:55+00:00"
         }
     ],
     "packages-dev": [],

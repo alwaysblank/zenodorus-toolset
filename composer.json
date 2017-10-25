@@ -11,15 +11,15 @@
     "repositories": {
         "zenodorus/core": {
             "type": "vcs",
-            "url": "git@github.com:alwaysblank/zenodorus.git"
+            "url": "git@github.com:zenodorus-tools/core.git"
         },
         "zenodorus/arrays": {
             "type": "vcs",
-            "url": "git@github.com:alwaysblank/zenodorus-arrays.git"
+            "url": "git@github.com:zenodorus-tools/arrays.git"
         },
         "zenodorus/strings": {
             "type": "vcs",
-            "url": "git@github.com:alwaysblank/zenodorus-strings.git"
+            "url": "git@github.com:zenodorus-tools/strings.git"
         }
     },
     "require": {
