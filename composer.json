@@ -1,0 +1,30 @@
+{
+    "name": "zenodorus/toolset",
+    "description": "All of the Zenodorus tools in one place.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Martinez-Bateman",
+            "email": "ben@alwaysblank.org"
+        }
+    ],
+    "repositories": {
+        "zenodorus/core": {
+            "type": "vcs",
+            "url": "git@github.com:alwaysblank/zenodorus.git"
+        },
+        "zenodorus/arrays": {
+            "type": "vcs",
+            "url": "git@github.com:alwaysblank/zenodorus-arrays.git"
+        },
+        "zenodorus/strings": {
+            "type": "vcs",
+            "url": "git@github.com:alwaysblank/zenodorus-strings.git"
+        }
+    },
+    "require": {
+        "zenodorus/core": "dev-master",
+        "zenodorus/arrays": "dev-master",
+        "zenodorus/strings": "dev-master"
+    }
+}
